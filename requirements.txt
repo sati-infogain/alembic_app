@@ -1,0 +1,9 @@
+alembic
+sqlalchemy
+python-dotenv
+fastapi
+uvicorn
+psycopg2
+email_validator
+uuid
+pydantic
